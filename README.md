@@ -2,5 +2,5 @@
 - 👀 I’m interested in data science, statistics, and machine learning.
 - 🌍 I’m a statistician based in Côte d'Ivoire, working in a local company.
 - 📈 I create and share projects that start with basic statistics and gradually increase in complexity, progressing towards machine learning, all implemented with Python.
-- 🎓 Mon objectif est d’aider les débutants à faire leurs premiers pas en Python en proposant une approche visuelle et intuitive de la programmation. J’apprends aussi en cours de route, donc c’est pour moi un voyage d’exploration et de progression !
+- 🎓 My goal is to help beginners take their first steps in Python by offering a visual and intuitive approach to programming. I'm also learning along the way, so this is a journey of exploration and growth for me!
 - 📫 You can reach me at [jnguessan532@gmail.com].
