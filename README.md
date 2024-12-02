@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gnami225 
+- 👋 Hi, I’m @Gnami225 : Jacques N'guessan
 - 👀 I’m interested in data science, statistics, and machine learning.
 - 🌍 I’m a statistician based in Côte d'Ivoire, working in a local company.
 - 📈 I create and share projects that start with basic statistics and gradually increase in complexity, progressing towards machine learning, all implemented with Python.
